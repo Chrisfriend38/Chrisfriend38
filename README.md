@@ -20,7 +20,9 @@ GitHub
 
 🚀 My Journey & What’s Next
 After spending time in stakeholder-facing roles and collaborating closely with engineering teams in large organisations, I discovered a genuine passion for technology and software development. This led me to retrain and fully commit to a career in software engineering.
+
 Through Northcoders, I’m gaining hands-on experience designing and building full-stack applications with React, Node.js, Express, SQL, and TDD. I’m particularly interested in writing clean, maintainable code and understanding how software works end to end.
+
 Looking ahead, I’m keen to join a supportive development team where I can continue to grow, contribute to meaningful projects, and strengthen my technical foundations while delivering real value.
 
 🌱 Currently Learning
